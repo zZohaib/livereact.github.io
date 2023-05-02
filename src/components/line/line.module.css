@@ -1,0 +1,7 @@
+.line {
+  width: 60vw;
+  height: 1px;
+  background: -webkit-linear-gradient(left, var(--gradient-bg));
+  background: -o-linear-gradient(left, var(--gradient-bg));
+  background: linear-gradient(to right, var(--gradient-bg));
+}

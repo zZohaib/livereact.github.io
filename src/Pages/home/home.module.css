@@ -1,0 +1,96 @@
+/* -------------------THEME------------------------ */
+
+.bodylight {
+  background: -webkit-linear-gradient(
+    90deg,
+    #f5f5f5 0%,
+    #f5f5f5 30%,
+    #fff 30%,
+    #fff 70%
+  );
+  background: -o-linear-gradient(
+    90deg,
+    #f5f5f5 0%,
+    #f5f5f5 30%,
+    #fff 30%,
+    #fff 70%
+  );
+  background: linear-gradient(
+    90deg,
+    #f5f5f5 0%,
+    #f5f5f5 30%,
+    #fff 30%,
+    #fff 70%
+  );
+}
+.bodydark {
+  background: -webkit-linear-gradient(
+    90deg,
+    #1b1d21 0%,
+    #1b1d21 30%,
+    #111215 30%,
+    #111215 70%
+  );
+  background: -o-linear-gradient(
+    90deg,
+    #1b1d21 0%,
+    #1b1d21 30%,
+    #111215 30%,
+    #111215 70%
+  );
+  background: linear-gradient(
+    90deg,
+    #1b1d21 0%,
+    #1b1d21 30%,
+    #111215 30%,
+    #111215 70%
+  );
+}
+.darkBackgroundColor {
+  background-color: #111215;
+}
+.lightBackgroundColor {
+  background-color: #fff;
+}
+
+/* -------------------THEME------------------------ */
+
+.absolute {
+  position: absolute;
+}
+.right {
+  left: 0;
+}
+.left {
+  top: 190vh;
+
+  right: 0;
+}
+.App_container {
+  display: flex;
+
+  justify-content: center;
+  align-items: center;
+}
+.App_landing_page_height {
+  min-height: 100vh;
+  height: 100vh;
+}
+.App_feature_page_container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.App_feature_margin {
+  margin-top: 110px;
+}
+.App_feature_page_height {
+  min-height: 93vh;
+  height: 60vh;
+}
+.App_gradient_position {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
