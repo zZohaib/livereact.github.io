@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/livereact.github.io/static/css/main.a006d93b.css",
+    "main.js": "/livereact.github.io/static/js/main.ebe9c0e7.js",
+    "static/media/bg.jpg": "/livereact.github.io/static/media/bg.9fe53a29417ca495719a.jpg",
+    "static/media/logo.png": "/livereact.github.io/static/media/logo.3f1d3ec8e62042682098.png",
+    "index.html": "/livereact.github.io/index.html",
+    "main.a006d93b.css.map": "/livereact.github.io/static/css/main.a006d93b.css.map",
+    "main.ebe9c0e7.js.map": "/livereact.github.io/static/js/main.ebe9c0e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a006d93b.css",
+    "static/js/main.ebe9c0e7.js"
+  ]
+}
