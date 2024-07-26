@@ -24,7 +24,7 @@ export default class App extends Component {
     return (
       <>
       {/* <ProgressBar/> */}
-      <Router>
+      <Router basename="/livereact.github.io">
         <Navbar mode={this.state.mode} toggleMode={this.toggleMode} />
         <Routes>
           <Route exact path="/" element={<Home mode={this.state.mode} />} />
