@@ -24,10 +24,12 @@ export default class App extends Component {
     return (
       <>
       {/* <ProgressBar/> */}
+      <Router>
         <Navbar mode={this.state.mode} toggleMode={this.toggleMode} />
         <Routes>
           <Route exact path="/" element={<Home mode={this.state.mode} />} />
         </Routes>
+  </Router>
       </>
     );
   }
